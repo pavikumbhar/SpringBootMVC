@@ -1,0 +1,5 @@
+com\pavikumbhar\javaheart\common\dao\BaseEntityRepository.class
+com\pavikumbhar\javaheart\application\Application.class
+com\pavikumbhar\javaheart\common\dto\BaseEntityDto.class
+com\pavikumbhar\javaheart\common\service\BaseEntityService.class
+com\pavikumbhar\javaheart\common\entity\BaseEntity.class
